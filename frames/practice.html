@@ -5,8 +5,9 @@
 <title>Practice Problems</title>
 <link href="../css/sharedtab.css" rel="stylesheet" type="text/css" />
 <style type="text/css">
-.problemTable,.problemTR,.problemTD {
+#probtable,tr,td {
 	border: 1px solid #000;
+	text-align: center;
 }
 </style>
 <base target="_blank" />
@@ -14,32 +15,30 @@
 
 <body>
 <div class="title">Practice Problems</div>
-<table width="90%" border="0" cellpadding="0" cellspacing="0" class="problemTable" style="margin: 0 auto;">
-  <tr class="problemTR">
-    <td width="46%" class="problemTD">American Computer Science League</td>
-    <td width="54%" class="problemTD"><p>Sample Contest 1: <a href="../docs/acsl/c_1_sr.pdf">Short Answer</a> - <a href="../docs/acsl/c_1_sr_sol.pdf">Solutions</a> | <a href="../docs/acsl/c_1_code_sr.pdf">Programming Problem</a><br/>
-    Sample Contest 2: <a href="../docs/acsl/c_2_sr.pdf">Short Answer</a> - <a href="../docs/acsl/c_2_sr_sol.pdf">Solutions</a> | <a href="../docs/acsl/c_2_checkers_sr.pdf">Programming Problem</a><br/>
-    Sample Contest 3: <a href="../docs/acsl/c_3_sr.pdf">Short Answer</a> - <a href="../docs/acsl/c_3_sr_sol.pdf">Solutions</a> | <a href="../docs/acsl/c_3_palindrome_sr.pdf">Programming Problem</a><br/>
-    Sample Contest 4: <a href="../docs/acsl/c_4_sr.pdf">Short Answer</a> - <a href="../docs/acsl/c_4_sr_sol.pdf">Solutions</a> | <a href="../docs/acsl/c_4_conic_sr.pdf">Programming Problem</a></p></td>
-  </tr>
-  <tr class="problemTR">
-    <td class="problemTD">WPI Programming Contest</td>
-    <td class="problemTD"><p><a href="../docs/wpi/wpi2006.pdf">2006 Contest</a><br/>
+<table width="90%" border="0" cellpadding="0" cellspacing="0" style="margin: 0 auto;" id="probTable">
+  <tr>
+    <td><a href="http://web.cs.wpi.edu/Resources/Contest/">WPI Programming Contest</a></td>
+    <td><p>
+    <a href="../docs/wpi/wpi2006.pdf">2006 Contest</a><br/>
     <a href="../docs/wpi/wpi2007.pdf">2007 Contest</a><br/>
     <a href="../docs/wpi/wpi2008.pdf">2008 Contest</a><br/>
     <a href="../docs/wpi/wpi2009.pdf">2009 Contest</a><br/>
     <a href="../docs/wpi/wpi2010.pdf">2010 Contest</a><br/>
     <a href="../docs/wpi/wpi2011.pdf">2011 Contest</a><br/>
-        <a href="../docs/wpi/wpi2012.pdf">2012 Contest</a><br/>
-    <a href="../docs/wpi/wpi2013.pdf">2013 Contest</a></p></td>
+    <a href="../docs/wpi/wpi2012.pdf">2012 Contest</a><br/>
+    <a href="../docs/wpi/wpi2013.pdf">2013 Contest</a>
+    </p></td>
   </tr>
-  <tr class="problemTR">
-    <td class="problemTD">Fitchburg State Programming Contest</td>
-    <td class="problemTD"><p><a href="../docs/fsu/fsu2013.pdf">2013 Contest</a></p></td>
+  <tr>
+    <td><a href="http://www.fitchburgstate.edu/academics/academic-departments/computer-science-dept/high-school-programming-contest/">Fitchburg State Programming Contest</a></td>
+    <td><p>
+    <a href="../docs/fsu/fsu2013.pdf">2013 Contest</a>
+    </p></td>
   </tr>
-  <tr class="problemTR">
-    <td class="problemTD">The Philadelphia Classic</td>
-    <td class="problemTD"><p><a href="../docs/penn/PClassic2001.pdf">2001 Contest</a><br/>
+  <tr>
+    <td><a href="http://dp.seas.upenn.edu/pclassic.html">The Philadelphia Classic at the University of Pennsylvania</a></td>
+    <td><p>
+    <a href="../docs/penn/PClassic2001.pdf">2001 Contest</a><br/>
     <a href="../docs/penn/PClassic2007.pdf">2007 Contest</a><br/>
     <a href="../docs/penn/PClassic2008.pdf">2008 Contest</a><br/>
     <a href="../docs/penn/PClassic2009.pdf">2009 Contest</a><br/>
@@ -49,9 +48,53 @@
     <a href="../docs/penn/PClassic2013.pdf">2013 Contest</a><br/>
     </p></td>
   </tr>
-  <tr class="problemTR">
-    <td class="problemTD">USACO</td>
-    <td class="problemTD">*TBD*</td>
+  <tr>
+    <td><a href="http://usaco.org/">USA Computing Olympiad</a></td>
+    <td style="border:0px;"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="50%">Selected Problems</td>
+        <td width="50%">Full Contests</td>
+      </tr>
+      <tr>
+        <td><p>
+        <a href="http://usaco.org/index.php?page=viewproblem2&amp;cpid=188">11/12 B2 - Typo</a><br/>
+        <a href="http://usaco.org/index.php?page=viewproblem2&amp;cpid=189">11/12 B3 - Horseshoes</a><br/>
+        <a href="http://usaco.org/index.php?page=viewproblem2&amp;cpid=206">12/12 B2 - Scrambled Letters</a><br/>
+        <a href="http://usaco.org/index.php?page=viewproblem2&amp;cpid=207">12/12 B3 - Crazy Fences</a><br/>
+        <a href="http://usaco.org/index.php?page=viewproblem2&amp;cpid=224">1/13 B2 - Painting the Fence</a><br/>
+        <a href="http://usaco.org/index.php?page=viewproblem2&amp;cpid=228">1/13 S3 - Party Invitations</a><br/>
+        <a href="http://usaco.org/index.php?page=viewproblem2&amp;cpid=241">2/13 B1 - Message Relay</a><br/>
+        <a href="http://usaco.org/index.php?page=viewproblem2&amp;cpid=242">2/13 B2 - Cow Crossings</a><br/>
+        <a href="http://usaco.org/index.php?page=viewproblem2&amp;cpid=243">2/13 B3 - Perimeter</a><br/>
+        <a href="http://usaco.org/index.php?page=viewproblem2&amp;cpid=262">3/13 S1 - Poker Hands</a><br/>
+        <a href="http://usaco.org/index.php?page=viewproblem2&amp;cpid=282">OPEN'13 S1 - What's up with Gravity</a><br/>
+        </p></td>
+        <td><p>
+        <a href="http://usaco.org/index.php?page=nov11problems">November 2011</a><br/>
+        <a href="http://usaco.org/index.php?page=dec11problems">December 2011</a><br/>
+        <a href="http://usaco.org/index.php?page=jan12problems">January 2012</a><br/>
+        <a href="http://usaco.org/index.php?page=feb12problems">February 2012</a><br/>
+        <a href="http://usaco.org/index.php?page=mar12problems">March 2012</a><br/>
+        <a href="http://usaco.org/index.php?page=open12problems">US Open 2012</a><br/>
+        <a href="http://usaco.org/index.php?page=nov12problems">November 2012</a><br/>
+        <a href="http://usaco.org/index.php?page=dec12problems">December 2012</a><br/>
+        <a href="http://usaco.org/index.php?page=jan13problems">January 2013</a><br/>
+        <a href="http://usaco.org/index.php?page=feb13problems">February 2013</a><br/>
+        <a href="http://usaco.org/index.php?page=mar13problems">March 2013</a><br/>
+        <a href="http://usaco.org/index.php?page=open13problems">US Open 2013</a><br/>
+        <a href="http://cerberus.delos.com:790/usacogate">USACO Training Gateway</a>
+        </p></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td width="46%"><a href="http://www.acsl.org/">American Computer Science League</a></td>
+    <td width="54%"><p>
+    Sample Contest 1: <a href="../docs/acsl/c_1_sr.pdf">Short Answer</a> - <a href="../docs/acsl/c_1_sr_sol.pdf">Solutions</a> | <a href="../docs/acsl/c_1_code_sr.pdf">Programming Problem</a><br/>
+    Sample Contest 2: <a href="../docs/acsl/c_2_sr.pdf">Short Answer</a> - <a href="../docs/acsl/c_2_sr_sol.pdf">Solutions</a> | <a href="../docs/acsl/c_2_checkers_sr.pdf">Programming Problem</a><br/>
+    Sample Contest 3: <a href="../docs/acsl/c_3_sr.pdf">Short Answer</a> - <a href="../docs/acsl/c_3_sr_sol.pdf">Solutions</a> | <a href="../docs/acsl/c_3_palindrome_sr.pdf">Programming Problem</a><br/>
+    Sample Contest 4: <a href="../docs/acsl/c_4_sr.pdf">Short Answer</a> - <a href="../docs/acsl/c_4_sr_sol.pdf">Solutions</a> | <a href="../docs/acsl/c_4_conic_sr.pdf">Programming Problem</a>
+    </p></td>
   </tr>
 </table>
 
