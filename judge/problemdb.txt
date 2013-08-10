@@ -123,6 +123,11 @@ USACO
 --B3 - Photo
 --B4 - Haywire
 WPI
+-2006
+--Sequence This
+--Calculate This
+--Locate This
+--Manipulate This
 FSU
 -2013
 --Factors
