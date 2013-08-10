@@ -1,0 +1,28 @@
+USACO
+-November 2011
+--G1 - Above the Median
+--G2 - Binary Sudoku
+--G3 - Cow Steeplechase
+--S1 - Cow Beauty Pageant
+--S2 - Cow Lineup
+--S3 - Tile Exchanging
+--B1 - Contest Timing
+--B2 - Awkward Digits
+--B3 - Moo Sick
+--B4 - Cow Beauty Pageant
+-December 2011
+-January 2012
+-February 2012
+-March 2012
+-US Open 2012
+-November 2012
+-December 2012
+-January 2013
+-February 2013
+-March 2013
+-US Open 2013
+WPI
+
+FSU
+
+PClassic
