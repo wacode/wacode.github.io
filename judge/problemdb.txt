@@ -11,18 +11,129 @@ USACO
 --B3 - Moo Sick
 --B4 - Cow Beauty Pageant
 -December 2011
+--G1 - Cow Photography
+--G2 - Simplifying the Farm
+--G3 - Grass Planting
+--S1 - Cow Photography
+--S2 - Roadblock
+--S3 - Umbrellas for Cows
+--B1 - Hay Bales
+--B2 - Cow Photogrpahy
+--B3 - Escaping the Farm
 -January 2012
+--G1 - Video Game
+--G2 - Cow Run
+--G3 - Bovine Alliance
+--S1 - Delivery Route
+--S2 - Bale Share
+--S3 - Mountain Climbing
+--B1 - Gifts
+--B2 - Haybale Stacking
+--B3 - Grazing Patterns
 -February 2012
+--G1 - Cow Coupons
+--G2 - Symmetry
+--G3 - Nearby Cows
+--S1 - Overplanting
+--S2 - Cow IDs
+--S3 - Relocation
+--B1 - Rope Folding
+--B2 - Overplanting
+--B3 - Moo
 -March 2012
+--G1 - Large Banner
+--G2 - Haybale Restacking
+--G3 - Cows in a Skyscraper
+--S1 - Tractor
+--S2 - Flowerpot
+--S3 - Landscaping
+--B1 - Times 17
+--B2 - Connect the Cows
+--B3 - Wrong Directions
 -US Open 2012
+--G1 - Tied Down
+--G2 - Bookshelf
+--G3 - Balanced Cow Subsets
+--S1 - Unlocking Blocks
+--S2 - Bookshelf
+--S3 - Running Laps
+--B1 - Cows in a Row
+--B2 - Three Lines
+--B3 - Islands
+--B4 - Unlocking Blocks
 -November 2012
+--G1 - Balanced Cow Breeds
+--G2 - Concurrently Balanced Strings
+--G3 - Balanced Trees
+--S1 - Clumsy Cows
+--S2 - Distant Pastures
+--S3 - Balanced Cow Breeds
+--B1 - Find the Cow!
+--B2 - Typo
+--B3 - Horseshoes
 -December 2012
+--G1 - Gangs of Instanbull/Cowstantinople
+--G2 - First!
+--G3 - Running Away From the Barn
+--S1 - Crazy Fences
+--S2 - Wifi Setup
+--S3 - Milk Routing
+--B1 - Meet and Greet
+--B2 - Scrambled Letters
+--B3 - Crazy Fences
 -January 2013
+--G1 - Cow Lineup
+--G2 - Island Travels
+--G3 - Seating
+--S1 - Painting the Fence
+--S2 - Square Overlap
+--S3 - Party Invitations
+--B1 - Mirrors
+--B2 - Painting the Fence
+--B3 - Liars and Truth Tellers
 -February 2013
+--G1 - Partitioning the Farm
+--G2 - Taxi
+--G3 - Route Design
+--S1 - Perimeter
+--S2 - Tractor
+--S3 - Milk Scheduling
+--B1 - Message Relay
+--B2 - Cow Crossings
+--B3 - Perimeter
 -March 2013
+--G1 - The Cow Run
+--G2 - Hill Walk
+--G3 - Necklace
+--S1 - Poker Hands
+--S2 - Farm Painting
+--S3 - The Cow Run
+--B1 - Cow Race
+--B2 - Breed Proximity
+--B3 - Breed Assignment
 -US Open 2013
+--G1 - Photo
+--G2 - Yin and Yang
+--G3 - Figure Eight
+--S1 - What's Up With Gravity
+--S2 - Fuel Economy
+--S3 - Luxury River Cruise
+--B1 - Bovine Ballet
+--B2 - Blink
+--B3 - Photo
+--B4 - Haywire
 WPI
-
 FSU
-
+-2013
+--Factors
+--Parade
+--Ribbons
+--Distress
+--Military Time
+--Rectangle
+--Window
+--Dice
+--Odometer
+--Fibonacci
+--Heart
 PClassic
