@@ -18,7 +18,7 @@ USACO
 --S2 - Roadblock
 --S3 - Umbrellas for Cows
 --B1 - Hay Bales
---B2 - Cow Photogrpahy
+--B2 - Cow Photography
 --B3 - Escaping the Farm
 -January 2012
 --G1 - Video Game
@@ -72,7 +72,7 @@ USACO
 --B2 - Typo
 --B3 - Horseshoes
 -December 2012
---G1 - Gangs of Instanbull/Cowstantinople
+--G1 - Gangs of Instanbull
 --G2 - First!
 --G3 - Running Away From the Barn
 --S1 - Crazy Fences
@@ -126,8 +126,8 @@ WPI
 -2006
 --Sequence This
 --Calculate This
---Locate This
---Manipulate This
+--Locate Manipulate
+--This This
 FSU
 -2013
 --Factors
