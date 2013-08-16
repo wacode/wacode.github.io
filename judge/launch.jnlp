@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jnlp href="launch.jnlp" spec="1.0+">
+    <information>
+        <title>WACode Judge</title>
+        <vendor>Michael Colavita</vendor>
+        <homepage href=""/>
+        <description>WACode Judge</description>
+        <description kind="short">WACode Judge</description>
+        
+        
+    </information>
+    <update check="always"/>
+    <security>
+<all-permissions/>
+</security>
+    <resources>
+        <j2se java-vm-args="-Djava.security.policy=applet.policy" version="1.7+"/>
+        <jar href="WACode_Judge.jar" main="true"/>
+        
+        
+    </resources>
+    <applet-desc height="477" main-class="JudgeMain" name="WACode Judge" width="938">
+        
+    </applet-desc>
+</jnlp>
