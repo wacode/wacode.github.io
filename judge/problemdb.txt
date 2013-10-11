@@ -122,3 +122,8 @@ USACO
 --B2 - Blink
 --B3 - Photo
 --B4 - Haywire
+Qualifier
+-2013A
+--Problem I
+--Problem II
+--Problem III
